@@ -17,5 +17,8 @@
   "description": "",
   "dependencies": {
     "dalkak": "^0.5.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
   }
 }
