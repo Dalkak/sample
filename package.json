@@ -2,8 +2,7 @@
   "name": "@dalkak/sample",
   "version": "0.0.0",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Dalkak/sample.git"
@@ -15,5 +14,8 @@
     "url": "https://github.com/Dalkak/sample/issues"
   },
   "homepage": "https://github.com/Dalkak/sample#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "dalkak": "^0.5.2"
+  }
 }
