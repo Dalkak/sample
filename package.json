@@ -1,0 +1,19 @@
+{
+  "name": "@dalkak/sample",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dalkak/sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dalkak/sample/issues"
+  },
+  "homepage": "https://github.com/Dalkak/sample#readme",
+  "description": ""
+}
