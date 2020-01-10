@@ -16,7 +16,7 @@
   "homepage": "https://github.com/Dalkak/sample#readme",
   "description": "",
   "dependencies": {
-    "dalkak": "^0.5.2"
+    "dalkak": "^0.6.1"
   },
   "devDependencies": {
     "typescript": "^3.7.4"
