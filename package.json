@@ -1,6 +1,6 @@
 {
   "name": "@dalkak/sample",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "scripts": {},
   "repository": {
@@ -16,6 +16,7 @@
   "homepage": "https://github.com/Dalkak/sample#readme",
   "description": "",
   "dependencies": {
+    "@types/node": "^13.1.6",
     "dalkak": "^0.6.1"
   },
   "devDependencies": {
