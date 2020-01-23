@@ -6,7 +6,7 @@
   "module": "dist/sample.mjs",
   "unpkg": "dist/sample.umd.js",
   "scripts": {
-    "build": "microbundle"
+    "build": "microbundle --name @dalkak/sample"
   },
   "repository": {
     "type": "git",
